@@ -17,6 +17,8 @@ Please Read <br> <br> This API is the only way to automate chat functionalities 
 <Br> About Me
 - [ ] [Why im creating BOT](https://github.com/LeiamNashRebirth/BOT_Messenger/blob/main/leiam.md)
 - [ ] [When did I start](https://github.com/LeiamNashRebirth/BOT_Messenger/blob/main/when%20did%20i%20start.md)
+- [ ] [Who am i](https://github.com/LeiamNashRebirth/BOT_Messenger/blob/main/who%20am%20i.md)
+
 > Developer: Leiam Nash <br> Program code by: Leiam Nash <br> Language: JavaScript & Node JS
 
 <br> <br> Leiam Nash and Izumi Kun is the same person also my original name is  `Leiam Nash` i change my Facebook name to `Izumi Kun` cause that name means <br> `Spring or Fountain` cause i started doing this on <br> `spring season`
