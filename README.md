@@ -5,9 +5,17 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 <Br> `Created by Leiam Nash`
 <br> <br>
-Program for
-Personal account BOT messenger 
+Please Read <br> <br> This API is the only way to automate chat functionalities on a user account
+ this API won't work with an auth token but requires the credentials of a Facebook account.
 
+<Br> Bots Program
+- [ ] [Akiara](https://github.com/LeiamNashRebirth/Akiara)
+- [ ] [Akihiko](https://github.com/LeiamNashRebirth/Akihiko)
+- [ ] [Kyoko](https://github.com/LeiamNashRebirth/Kyoko)
+- [ ] [Kimiko](https://github.com/LeiamNashRebirth/Kimiko)
+
+<Br> About Me
+- [ ] W
 
 > Developer: Leiam Nash <br> Program code by: Leiam Nash <br> Language: JavaScript & Node JS
 
