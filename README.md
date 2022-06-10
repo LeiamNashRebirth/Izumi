@@ -5,7 +5,8 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 <Br> `Created by Leiam Nash`
 <br> <br>
-
+Program for
+Personal account BOT messenger 
 
 
 > Developer: Leiam Nash <br> Program code by: Leiam Nash <br> Language: JavaScript & Node JS
