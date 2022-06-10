@@ -25,7 +25,10 @@ Please Read <br> <br> This API is the only way to automate chat functionalities 
 - [ ] [DataBase](https://github.com/LeiamNashRebirth/DataBase)
 - [ ] [API](https://github.com/LeiamNashRebirth/API)
 - [ ] [Language](https://github.com/LeiamNashRebirth/Language)
-
+- [ ] [BootLoader](https://github.com/LeiamNashRebirth/BootLoader)
+- [ ] [BotStart](https://github.com/LeiamNashRebirth/BotStart)
+- [ ] [Plugins](https://github.com/LeiamNashRebirth/Plugins)
+- [ ] [HeroLevel](https://github.com/LeiamNashRebirth/HeroLevel)
 
 > Developer: Leiam Nash <br> Program code by: Leiam Nash <br> Language: JavaScript & Node JS
 
