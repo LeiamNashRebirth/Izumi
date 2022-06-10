@@ -15,7 +15,7 @@ Please Read <br> <br> This API is the only way to automate chat functionalities 
 - [ ] [Kimiko](https://github.com/LeiamNashRebirth/Kimiko)
 
 <Br> About Me
-- [ ] W
+- [ ] [Why im creating BOT](https://github.com/LeiamNashRebirth/BOT_Messenger/blob/main/leiam.md)
 
 > Developer: Leiam Nash <br> Program code by: Leiam Nash <br> Language: JavaScript & Node JS
 
