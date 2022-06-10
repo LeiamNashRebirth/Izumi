@@ -7,6 +7,7 @@
 <br> <br>
 Please Read <br> <br> This API is the only way to automate chat functionalities on a user account
  this API won't work with an auth token but requires the credentials of a Facebook account.
+
 <Br>Personal `BOT` account is illegal on facebook messenger do not use your main or other important facebook accounts for this project also it's normal if your<br> `Facebook BOT account` got disabled or reported by facebook team
 <br> <br> 
 <Br> Bots Program
