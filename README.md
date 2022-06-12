@@ -22,13 +22,13 @@ that support `MP3` `MP4` `PNG` and `MANY` `MORE` advance commanding <br> [Instru
 > Bot Kimiko is have an advantage on system, this program is the version 5 of my [Server](https://github.com/LeiamNashRebirth/Server) but the file C3C remain unsupported for encrypted version
 Kimiko, the system updated to version 3 have an security program with protected by avoiding spam on group chats also the server ping is now improve on this program there's no 
 time delay even this bots join multiple group chats on messenger [Instructions for installation]
-- [ ] [Kyoko](https://github.com/LeiamNashRebirth/Kyoko)
-> Bot Kyoko have a hundreds commanding feature without eating your own memory storage
+- [ ] [Akihiko](https://github.com/LeiamNashRebirth/Akihiko)
+> Bot Akihiko have a hundreds commanding feature without eating your own memory storage
 this bot have an new feature for cloud storage support multiple languages on one commanding area, this built in program have an delay ui on messenger witch mean 
 there's animetion on it every bot chat however this bot have na strongest ip hunter cost by package program on it also for
 C3C this bot have an originally `fbstate.json` on C3C however encrypted C3C still unsupported on this program [Instructions for installation]
-- [ ] [Akihiko](https://github.com/LeiamNashRebirth/Akihiko)
-> Bot Akihiko is my latest bot program and a lite version of kyoko, this program have an less commanding feature and support C3C encrypted to have high security however this bot
+- [ ] [Kyoko](https://github.com/LeiamNashRebirth/Kyoko)
+> Bot Kyoko is my latest bot program and a lite version of Akihiko, this program have an less commanding feature and support C3C encrypted to have high security however this bot
 still on testing some of bugs are not fix also the security of this bot is not higher than other bots, this bots don't have protecting feature witch mean 
 this bot support all group and all accounts on facebook [Instructions for installation]
 
