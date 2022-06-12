@@ -32,6 +32,69 @@ C3C this bot have an originally `fbstate.json` on C3C however encrypted C3C stil
 still on testing some of bugs are not fix also the security of this bot is not higher than other bots, this bots don't have protecting feature witch mean 
 this bot support all group and all accounts on facebook [Instructions for installation]
 
+<Br> Information
+<Br> 
+✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ 
+<br> Bot Name: Leiam Nash
+<Br> Started: March 28, 2021
+<br> System: Android
+<Br> Server: Goat
+<Br> Status: Deleted
+<Br> Tools: Spck
+<Br> Ended: April 13, 2021
+<Br>
+<br> Bot Name: Meow Chan
+<Br> Started: June 15, 2021
+<br> System: Windows
+<Br> Server: 5bToR
+<Br> Status: Lost 
+<Br> Tools: VSCode
+<Br> Ended: August 6, 2021
+<Br> 
+<br> Bot Name: LeiamNashRebirth
+<Br> Started: September 3, 2021
+<br> System: Windows
+<Br> Server: MChaT
+<Br> Status: Deleted
+<Br> Tools: Microsoft Edge
+<Br> Ended: September 20, 2021
+<Br> 
+<br> Bot Name: [Akiara](https://github.com/LeiamNashRebirth/Akiara)
+<Br> Started: February 15, 2022
+<br> System: Linux
+<Br> 
+Server: [nash](https://github.com/LeiamNashRebirth/Server/blob/main/nash.js) <Br> Status: Online
+<Br> Tools: Atom
+<Br> Ended: March 1, 2022
+<Br> 
+<br> Bot Name: [Kimiko](https://github.com/LeiamNashRebirth/Kimiko)
+<Br> Started: March 8, 2022
+<br> System: Linux
+<Br> Server: [leiam](https://github.com/LeiamNashRebirth/Server/blob/main/leiam.js) <Br> Status: Online
+<Br> Tools: Atom
+<Br> Ended: March 27, 2022
+<Br>  
+ Bot Name: [Akihiko](https://github.com/LeiamNashRebirth/Akihiko)
+<Br> Started: May 20, 2022
+<br> System: Linux
+<Br> Server: Akihiko
+<Br> Status: Online
+<Br> Tools: Atom
+<Br> Ended: May 31, 2022
+<Br> 
+<br> Bot Name: [Kyoko](https://github.com/LeiamNashRebirth/Kyoko)
+<Br> Started: June 1, 2022
+<br> System: Linux
+<Br> Server: Kyoko
+<Br> Status: Beta Test Online
+<Br> Tools: Atom
+<Br> Ended: June 10, 2020
+<Br> ✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+
+
+
+
+
 <Br> Bots Program
 - [ ] [Akiara](https://github.com/LeiamNashRebirth/Akiara)
 - [ ] [Akihiko](https://github.com/LeiamNashRebirth/Akihiko)
