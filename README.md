@@ -108,16 +108,25 @@ Server: [nash](https://github.com/LeiamNashRebirth/Server/blob/main/nash.js) <Br
 - [ ] [When did I start](https://github.com/LeiamNashRebirth/BOT_Messenger/blob/main/when%20did%20i%20start.md)
 - [ ] [Who am i](https://github.com/LeiamNashRebirth/BOT_Messenger/blob/main/who%20am%20i.md)
 
-<Br> Modules
+<Br> Modules Information
 - [ ] [C3C](https://github.com/LeiamNashRebirth/C3C)
+> A Chrome and kiwi extension used to import/export fbstate.json file
 - [ ] [Server](https://github.com/LeiamNashRebirth/Server)
+> Leiam Nash hidden feature use to hack and import messenger to become bot
 - [ ] [DataBase](https://github.com/LeiamNashRebirth/DataBase)
+> Message, Video, Photo and Voice Message trashcan 
 - [ ] [API](https://github.com/LeiamNashRebirth/API)
+> Commanding program
 - [ ] [Language](https://github.com/LeiamNashRebirth/Language)
+> Server support
 - [ ] [BootLoader](https://github.com/LeiamNashRebirth/BootLoader)
+> Pinger for 24/7 online
 - [ ] [BotStart](https://github.com/LeiamNashRebirth/BotStart)
+> Join note for group chat
 - [ ] [Plugins](https://github.com/LeiamNashRebirth/Plugins)
+> Leiam Nash advance program that can turn any bots to a human 
 - [ ] [HeroLevel](https://github.com/LeiamNashRebirth/HeroLevel)
+> Messages count game
 
 
 <Br> Question and Answer 
