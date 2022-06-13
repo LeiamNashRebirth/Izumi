@@ -17,7 +17,8 @@ witch mean this program is highly illegal so you need knowledge about scripting 
 - [ ] [Akiara](https://github.com/LeiamNashRebirth/Akiara) 
 > Bot Akiara is my first project about networking however this bot doesn't support encrypted C3C, also the file is running on `appstate.json` witch mean this script feature
 is not advance vs what you think but the commanding file is have a fastest [Server](https://github.com/LeiamNashRebirth/Server)
-that support `MP3` `MP4` `PNG` and `MANY` `MORE` advance commanding <br> [Instruction for installation]
+that support `MP3` `MP4` `PNG` and `MANY` `MORE` advance commanding <br> 
+[Instruction for installation]
 - [ ] [Kimiko](https://github.com/LeiamNashRebirth/Kimiko)
 > Bot Kimiko is have an advantage on system, this program is the version 5 of my [Server](https://github.com/LeiamNashRebirth/Server) but the file C3C remain unsupported for encrypted version
 Kimiko, the system updated to version 3 have an security program with protected by avoiding spam on group chats also the server ping is now improve on this program there's no 
@@ -91,6 +92,10 @@ Server: [nash](https://github.com/LeiamNashRebirth/Server/blob/main/nash.js) <Br
 <Br> Ended: June 10, 2020
 <Br> ✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
+
+<Br> 
+Akiara and Kimiko <br>
+Instructions for Installation
 
 
 
