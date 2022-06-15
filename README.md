@@ -10,7 +10,7 @@
 
 <br> Disclaimer <br> <br> I am not responsible if your account gets banned for spammy activities such as sending lots of messages to people you don't know, sending messages very quickly, sending spammy looking URLs, logging in and out very quickly. Be responsible Facebook citizens
 
-<br> Warning <br> <br> This bot is not program for low knowledge about networking, peronal messenger bot is not existing on messenger
+<br> Warning <br> <br> This bot is not program for low knowledge about networking, personal messenger bot is not existing on messenger
 witch mean this program is highly illegal so you need knowledge about scripting feature to understand how it is works
 
 <br> Description
@@ -110,13 +110,6 @@ Instructions for Installation
 # Akihiko and Kyoko <br>
 Instructions for Installation
 >  Too lazy to write the instructions, i will give the full instructions on next update thanks for you support
-
-
-<Br> Bots Program
-- [ ] [Akiara](https://github.com/LeiamNashRebirth/Akiara)
-- [ ] [Akihiko](https://github.com/LeiamNashRebirth/Akihiko)
-- [ ] [Kyoko](https://github.com/LeiamNashRebirth/Kyoko)
-- [ ] [Kimiko](https://github.com/LeiamNashRebirth/Kimiko)
 
 <Br>
 <Br> About Me
