@@ -29,7 +29,7 @@ time delay even this bots join multiple group chats on messenger <br>
 - [ ] [Akihiko](https://github.com/LeiamNashRebirth/Akihiko)
 > Bot Akihiko have a hundreds commanding feature without eating your own memory storage
 this bot have an new feature for cloud storage support multiple languages on one commanding area, this built in program have an delay ui on messenger witch mean 
-there's animetion on it every bot chat however this bot have na strongest ip hunter cost by package program on it also for
+there's animetion on it every bot chat however this bot have an strongest ip hunter cost by package program on it also for
 C3C this bot have an originally `fbstate.json` on C3C however encrypted C3C still unsupported on this program 
 [Instructions for installation](#akihiko-and-kyoko-)
 
