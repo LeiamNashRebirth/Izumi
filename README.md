@@ -103,13 +103,44 @@ Server: [nash](https://github.com/LeiamNashRebirth/Server/blob/main/nash.js) <Br
 
 # Akiara and Kimiko <br>
 Instructions for Installation
-> Too lazy to write the instructions, i will give the full instructions on next update thanks for you support
+> Akiara and Kimiko have a same server and `appstate.json` file name which is C3C doesn't
+giving that name on the file import, in other words that's a small problem just a small trust me a small problem,
+ok so before i let you know how to fix that, im gonna back to the main topic the installation of this program,
+ok first thing first im gonna warn you on this description guide, im not gonna explain this on easy way to understand
+cause i dont want to anyone to use my program codes on their own and yeah you're right i will make this like a riddle just find the answers
+how to install this thing ok lets start,
+Akiara and Kimiko have a different codes but have a same server
+Akiara doesn't need to clone cause all of codes is written on my repl and Kimiko 
+which is have a code down here on my GitHub so you need to download it or clone it, whatever you want also for `Windows`
+`Linux` and `Mac` user you need to download 
+[node js](https://nodejs.org/en/download/) 
+and yeah of course cause you're using desktop thing you need to download my codes, 
+its just a simple just click the three dots above and click donwload as a zip then for activation just type `npm i` and `npm start`
+there's no way im gonna tell you the exact thing remember what i said before? Cause i dont want anyone to use my program codes on their own also for `Andriod` and `IOS` user
+you don't need to download my program codes you just need to clone it so you're questioning yourself what application you will use right? Anyway i said the application earlier
+its start on letter `R` you figure it out? If not its a `bruh` just kidding ok so let's fix the C3C problem, i hope you
+remember this first problem right? So to fix it, it's so simple just create a new file with the same name of the program, i said the file name earlier just figure it out on your own
+btw for running it's the same on desktop `npm i` and `npm start` also goodluck 
+
 
 <Br>
 
 # Akihiko and Kyoko <br>
 Instructions for Installation
->  Too lazy to write the instructions, i will give the full instructions on next update thanks for you support
+>  Akihiko is a advance bot that i made also kyoko is a lite version of
+Akihiko in other words they have the same server but different built in also C3C file support on this program name
+no need to change it anyway i will give you a little warning before i start on this description guide i will not make thid easy to understand cause 
+i dont want anyone to use my program codes on their own so i will make this sounds like a riddle just figure it out what the answers,
+First thing first for `Windows`
+`Linux` and `Mac` user you need to download 
+[Node js](https://nodejs.org/en/download/) 
+also cause you're using a desktop thing you need to download my codes just click the three dots above and donwload it as a zip, 
+then for activation just type `npm i` and `npm start`
+there's no way im gonna tell you the exact thing remember what i said before? Cause i dont want anyone to use my program codes on their own also for `Andriod` and `IOS` user
+you don't need to download my program codes you just need to clone it so you're questioning yourself what application you will use right? Anyway just use whatever you know
+cause you're here, you're here on my GitHub reading this article to figure out how it is works right? So in other words you also know what you're doing if you don't
+will I don't care just kidding who cares about you? No one caring at you remember that kidding btw for running it's the same on desktop `npm i` and `npm start` also goodluck 
+
 
 <Br>
 <Br> About Me
