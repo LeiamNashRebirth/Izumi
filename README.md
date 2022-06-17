@@ -1,4 +1,4 @@
-![This is an imagine](https://github.com/LeiamNashRebirth/Izumi/blob/main/LeiamNash/New%20Project%20%5B834E1C4%5D.png)
+![This is an imagine](https://github.com/LeiamNashRebirth/QueensBlade/blob/main/leiamnash.png)
 [Izumi Kun ver. 1.0.1](https://www.facebook.com/LeiamNashRebrth) <br> <br>
 <a href="https://www.npmjs.com/package/fca-unofficial"><img alt="npm version" src="https://img.shields.io/npm/v/fca-unofficial.svg?style=flat-square"></a>
 <img alt="version" src="https://img.shields.io/github/package-json/v/fca-unofficial/fca-unofficial?label=github&style=flat-square">
@@ -13,7 +13,33 @@
 <br> Warning <br> <br> This bot is not program for low knowledge about networking, personal messenger bot is not existing on messenger
 which mean this program is highly illegal so you need knowledge about scripting feature to understand how it is works
 
-<br> Description
+<br>
+Contents
+
+- [ ] [About Me]()
+- [ ] [My Information]()
+- [ ] [Version 1.0.1]()
+- [ ] [Projects]()
+- [ ] [Bot Description]()
+- [ ] [Modules Information]()
+- [ ] [Update Version 1.0.2]()
+- [ ] [What's New]()
+- [ ] [Question and Answer]()
+
+<Br>
+
+#### What's New on version 1.0.1
+- [ ] New api added on every bots
+- [ ] Support dual langunge for commanding
+- [ ] Simsimi is now updated support all languages
+- [ ] Account Security is now improve on C3C encrypted
+- [ ] Groups Security spam is now improve
+- [ ] Cloud packages is now updated
+- [ ] Fixed Gateway for 24/7 ping online
+
+<br>
+
+ #### Description
 - [ ] [Akiara](https://github.com/LeiamNashRebirth/Akiara) 
 > Bot Akiara is my first project about networking however this bot doesn't support encrypted C3C, also the file is running on `appstate.json` which mean this script feature
 is not advance vs what you think but the commanding file is have a fastest [Server](https://github.com/LeiamNashRebirth/Server)
@@ -39,8 +65,21 @@ still on testing some of bugs are not fix also the security of this bot is not h
 this bot support all group and all accounts on facebook 
 [Instructions for installation](#akihiko-and-kyoko-)
 
-<Br> Information
+<Br>
+
+#### Update Version 1.0.2
+- [ ] Game feature is still on development 
+- [ ] Improving no prefix still on beta test
+- [ ] New BOT Hiroshi is still on development
 <Br> 
+This feature will come on version 1.0.2 
+
+<Br> 
+
+#### Projects
+
+<Br> 
+
 ✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ 
 <br> Bot Name: Leiam Nash
 <Br> Started: March 28, 2021
@@ -101,7 +140,7 @@ Server: [nash](https://github.com/LeiamNashRebirth/Server/blob/main/nash.js) <Br
 
 <Br> 
 
-# Akiara and Kimiko <br>
+#### Akiara and Kimiko <br>
 Instructions for Installation
 > Akiara and Kimiko have a same server and `appstate.json` file name which is C3C doesn't
 giving that name on the file import, in other words that's a small problem just a small trust me a small problem,
@@ -125,7 +164,7 @@ btw for running it's the same on desktop `npm i` and `npm start` also goodluck
 
 <Br>
 
-# Akihiko and Kyoko <br>
+#### Akihiko and Kyoko <br>
 Instructions for Installation
 >  Akihiko is a advance bot that i made also kyoko is a lite version of
 Akihiko in other words they have the same server but different built in also C3C file support on this program name
@@ -143,13 +182,26 @@ will I don't care just kidding who cares about you? No one caring at you remembe
 
 
 <Br>
-<Br> About Me
+<Br>
+
+#### About Me
 
 - [ ] [Why im creating BOT](https://github.com/LeiamNashRebirth/BOT_Messenger/blob/main/leiam.md)
 - [ ] [When did I start](https://github.com/LeiamNashRebirth/BOT_Messenger/blob/main/when%20did%20i%20start.md)
 - [ ] [Who am i](https://github.com/LeiamNashRebirth/BOT_Messenger/blob/main/who%20am%20i.md)
 
-<Br> Modules Information
+
+<Br>
+
+#### About version 1.0.1
+> Version 1.0.1 well give you a powerful server and advance commanding
+this feature is now available on this version however some bugs and error api is still not improve,
+i will fix it later and bring you the version 1.0.2 as soon as possible thanks for your support
+
+<Br> 
+
+#### Modules Information
+
 - [ ] [C3C](https://github.com/LeiamNashRebirth/C3C)
 > A Chrome and kiwi extension used to import/export fbstate.json file
 - [ ] [Server](https://github.com/LeiamNashRebirth/Server)
@@ -170,7 +222,10 @@ will I don't care just kidding who cares about you? No one caring at you remembe
 > Messages count game
 
 
-<Br> Question and Answer 
+<Br> 
+
+#### Question and Answer 
+
 - [ ] What is the purpose of this BOT?
 > You can access YouTube Spotify Anime and Google without a load by commanding on this BOT on messenger
 - [ ] This is a public?
@@ -212,6 +267,10 @@ will I don't care just kidding who cares about you? No one caring at you remembe
 <Br>
 
 Developer: Leiam Nash <br> Program code by: Leiam Nash <br> Language: JavaScript & Node JS
+
+<Br>
+
+#### My Information
 
 <br> <br> Leiam Nash and Izumi Kun is the same person also my original name is  `Leiam Nash` i change my Facebook name to `Izumi Kun` cause that name means <br> `Spring or Fountain` cause i started doing this on <br> `spring season`
 
