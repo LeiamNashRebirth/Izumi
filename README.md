@@ -15,8 +15,11 @@ which mean this program is highly illegal so you need knowledge about scripting 
 
 <br>
 Contents
+
 - [ ] [Facebook](https://www.facebook.com/LeiamNashRebrth)
-- [ ] [About Me](#About-me)
+
+- [ ] [About Me](#about-me)
+
 - [ ] [My Information](#my-information)
 - [ ] [Version 1.0.1](#about-version-101)
 - [ ] [Projects](#projects)
