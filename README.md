@@ -1,4 +1,3 @@
-![This is an imagine](https://github.com/LeiamNashRebirth/QueensBlade/blob/main/leiamnash.png)
 [Izumi Kun ver. 1.0.1](https://www.facebook.com/LeiamNashRebrth) <br> <br>
 <a href="https://www.npmjs.com/package/fca-unofficial"><img alt="npm version" src="https://img.shields.io/npm/v/fca-unofficial.svg?style=flat-square"></a>
 <img alt="version" src="https://img.shields.io/github/package-json/v/fca-unofficial/fca-unofficial?label=github&style=flat-square">
@@ -20,7 +19,6 @@ Contents
 
 - [ ] [About Me](#about-me)
 
-- [ ] [My Information](#my-information)
 - [ ] [Version 1.0.1](#about-version-101)
 - [ ] [Projects](#projects)
 - [ ] [Bot Description](#description)
@@ -270,12 +268,6 @@ i will fix it later and bring you the version 1.0.2 as soon as possible thanks f
 <Br>
 
 Developer: Leiam Nash <br> Program code by: Leiam Nash <br> Language: JavaScript & Node JS
-
-<Br>
-
-#### My Information
-
-<br> <br> Leiam Nash and Izumi Kun is the same person also my original name is  `Leiam Nash` i change my Facebook name to `Izumi Kun` cause that name means <br> `Spring or Fountain` cause i started doing this on <br> `spring season`
 
 <br> <br>
 - [ ] Leiam Nash
